@@ -1,0 +1,9 @@
+server
+
+smartleaven@smartleaven-desktop:~/UA-.NETStandard/Applications/ConsoleReferenceServer$ dotnet run --project ConsoleReferenceServer.csproj --framework net6.0 -- -a
+
+client 
+
+smartleaven@smartleaven-desktop:~/UA-.NETStandard/Applications/ConsoleReferenceClient$ dotnet run --project ConsoleReferenceClient.csproj --framework net6.0 -- -a
+
+
