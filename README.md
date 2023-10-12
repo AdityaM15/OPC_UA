@@ -203,6 +203,9 @@ Prerequisites
 
     Once the dotnet command is available, navigate to the root folder in your local copy of the repository and execute dotnet restore UA Sample Applications.sln. This command calls into NuGet to restore the tree of dependencies.
 
+    **Clone this repository**:
+    https://github.com/OPCFoundation/UA-.NETStandard-Samples#contributing
+
 **Start the server**
 
     Open a command prompt.
