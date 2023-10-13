@@ -224,3 +224,8 @@ Prerequisites
     If not using the -a auto accept option, on first connection, or after certificates were renewed, the server may have refused the client certificate. Check the server and client folder %LocalApplicationData%/OPC Foundation/CertificateStores/RejectedCertificates for rejected certificates. To approve a certificate copy it to the %LocalApplicationData%/OPC Foundation/CertificateStores/UA Applications folder.
     Retry step 3 to connect using a secure connection.
 
+
+
+Also refere to :- https://github.com/OPCFoundation/UA-IIoT-StarterKit/tree/master
+                  https://github.com/OPCFoundation/UA-.NETStandard
+                  https://github.com/OPCFoundation/UA-.NETStandard-Samples#contributing
